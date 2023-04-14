@@ -8,7 +8,7 @@ import './App.css'
 function App() {
     return (
         <div style={{margin: '5%'}}>
-            <Panel header="Ovo je privatni dio" className="custom-panel">
+            <Panel header="Ovo je Privatni dio" className="custom-panel">
                 PRIVATNI dio!
             </Panel>
         </div>
