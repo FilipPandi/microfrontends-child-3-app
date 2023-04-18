@@ -12,7 +12,7 @@ function App() {
             <Panel header="Ovo je Privatni dio" className="custom-panel">
                 <h2><a className={"link"} href="http://localhost:3000/"><Button severity="secondary"
                                                                                 icon="pi pi-desktop"
-                                                                                label={"Root"}/></a></h2>
+                                                                                label={"Root - Direct link"}/></a></h2>
                 <br/>
                 PRIVATNI dio!
             </Panel>
