@@ -9,7 +9,7 @@ let root = null;
 let container = null;
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/components/private",
         element: <App/>,
     }
 ]);
