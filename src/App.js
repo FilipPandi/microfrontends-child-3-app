@@ -8,7 +8,7 @@ import {Button} from "primereact/button";
 
 function App() {
     return (
-        <div style={{margin: '2%'}}>
+        <div>
             <Panel header="Ovo je Privatni dio" className="custom-panel">
                 <h2><a className={"link"} href="http://localhost:3000/"><Button severity="secondary"
                                                                                 icon="pi pi-desktop"
